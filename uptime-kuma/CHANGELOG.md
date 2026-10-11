@@ -1,4 +1,5 @@
 # Changelog since v0.19.3
+- Fix certificate copy script errors 
 - Merge branch 'hassio-addons:main' into main 
 - Docker enabled uptime kuma
 
