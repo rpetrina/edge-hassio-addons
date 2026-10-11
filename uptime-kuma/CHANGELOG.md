@@ -1,4 +1,6 @@
 # Changelog since v0.19.3
+- Fix shellcheck errors 
+- Update run script again 
 - Add more logging to rootfs 
 - Fix certificate copy script errors 
 - Merge branch 'hassio-addons:main' into main 
