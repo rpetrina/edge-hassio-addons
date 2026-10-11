@@ -1,4 +1,6 @@
-## What’s changed
-* Add docker socket monitoring capabilities
-
-**Full Changelog**: https://github.com/rpetrina/app-uptime-kuma/compare/v0.0.1...v0.19.3
+# Changelog since v0.19.3
+- fix logic 
+- merge: Sync up to upstream stable codebase 
+- Make a run file and call it from up 
+- ⬆️ Update apprise to v2 (#389) 
+- ⬆️ Update louislam/uptime-kuma to v2.5.6 (#395) 
