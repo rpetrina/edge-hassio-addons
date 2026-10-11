@@ -1,4 +1,5 @@
 # Changelog since v0.19.3
+- Fix formatting and sed error 
 - Update release workflow drafter 
 - Update license and codeowners 
 - Update config to accept multiple hosts 
