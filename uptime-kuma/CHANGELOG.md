@@ -1,4 +1,5 @@
 # Changelog since v0.19.3
+- Fix release drafter one more time 
 - Switch back to the old release drafter sed command 
 - Fix release drafter config location and update checkout version 
 - Fix formatting and sed error 
