@@ -1,4 +1,5 @@
 # Changelog since v0.19.3
+- Mark script executable 
 - fix logic 
 - merge: Sync up to upstream stable codebase 
 - Make a run file and call it from up 
