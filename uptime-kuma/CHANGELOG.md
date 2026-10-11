@@ -1,4 +1,5 @@
 # Changelog since v0.19.3
+- Remove builder and add automatic upstream repo sync 
 - Fix release drafter one more time 
 - Switch back to the old release drafter sed command 
 - Fix release drafter config location and update checkout version 
