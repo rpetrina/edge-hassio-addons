@@ -1,4 +1,7 @@
 # Changelog since v0.19.3
+- Update release workflow drafter 
+- Update license and codeowners 
+- Update config to accept multiple hosts 
 - Mark script executable 
 - fix logic 
 - merge: Sync up to upstream stable codebase 
