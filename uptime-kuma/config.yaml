@@ -2,7 +2,7 @@ name: Uptime Kuma (Docker Socket)
 slug: uptime-kuma
 description: Uptime monitoring tool based on Uptime Kuma
 url: https://github.com/rpetrina/app-uptime-kuma
-version: 6b497d8
+version: cdd60cc
 webui: http://[HOST]:[PORT:3001]
 init: false
 arch:

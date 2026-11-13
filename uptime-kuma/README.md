@@ -42,5 +42,5 @@ If you are more interested in stable releases of our apps:
 [patreon-shield]: https://frenck.dev/wp-content/uploads/2019/12/patreon.png
 [patreon]: https://www.patreon.com/frenck
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[release-shield]: https://img.shields.io/badge/version-6b497d8-blue.svg
-[release]: https://github.com/rpetrina/app-uptime-kuma/tree/6b497d8
+[release-shield]: https://img.shields.io/badge/version-cdd60cc-blue.svg
+[release]: https://github.com/rpetrina/app-uptime-kuma/tree/cdd60cc
