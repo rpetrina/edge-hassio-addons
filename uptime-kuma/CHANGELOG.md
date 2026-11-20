@@ -1,5 +1,9 @@
 # Changelog since v0.19.6
 - merge: Sync up to upstream stable codebase 
+- ⬆️ Update cloudflare/cloudflared to v2026.11.1 (#420)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- merge: Sync up to upstream stable codebase 
 - ⬆️ Update louislam/uptime-kuma to v2.5.12 (#421)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
