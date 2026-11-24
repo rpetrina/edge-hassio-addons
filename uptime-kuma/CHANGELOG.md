@@ -1,5 +1,12 @@
 # Changelog since v0.19.6
 - merge: Sync up to upstream stable codebase 
+- ⬆️ Update alpine_3_24/python3 to v3.14.10-r2 (#425)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- ⬆️ Update cloudflare/cloudflared to v2026.11.2 (#424)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- merge: Sync up to upstream stable codebase 
 - ⬆️ Update apprise to v2.3.0 (#423)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
